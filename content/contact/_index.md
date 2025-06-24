@@ -9,7 +9,7 @@ We’d love to hear from you — whether you're interested in joining **OpenCodi
 ### 📬 Email
 
 You can contact us at:  
-📧 [opencodice.research@gmail.com](mailto:opencodice.research@gmail.com)
+📧 [hello@opencodice.org](mailto:hello@opencodice.org)
 
 ---
 
