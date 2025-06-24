@@ -1,0 +1,6 @@
+[submodule "themes/research-group"]
+	path = themes/research-group
+	url = https://github.com/HugoBlox/theme-research-group.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
