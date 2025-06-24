@@ -5,7 +5,7 @@ title = 'About'
 +++
 
 
-**OpenCodice Research** is a collective of independent researchers based in **Granada, Spain**, with a shared passion for **computer science** and a commitment to advancing **open science** that is accessible and relevant to society.
+**OpenCodice Research** is a collective of independent researchers based in **Granada, Spain**, with a shared passion for **computer science** and a commitment to advancing **open science** that is accessible and relevant to society. We have created a non-profit organization to help us to keep contributing to science.
 
 We have come together to collaborate, support one another, and promote a more inclusive and transparent scientific culture. Our association is **open to anyone** interested in contributing to knowledge from their own scientific background or expertise.
 
