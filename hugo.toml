@@ -1,0 +1,38 @@
+baseURL = "https://opencodice.org/"
+languageCode = "en-us"
+title = "OpenCodice"
+theme = "ananke"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[params]
+description = "OpenCodice is a scientific association promoting open science and reproducible research."
+background_color_class = "bg-gray-100"
+text_color = "text-gray-900"
+favicon = "images/favicon.ico"
+Paginate               = 0      # Posts por página en main
+googleAnalytics        = ""     # Código para estadísticas web
+enableRobotsTXT        = true   # Buscadores
+custom_css = ["css/custom.css"]
+
+
+[menu]
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
