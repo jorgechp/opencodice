@@ -15,7 +15,7 @@ You can contact us at:
 
 ### 🤝 Join Us
 
-OpenCodice is open to researchers from all fields, backgrounds, and institutions.  
+OpenCodice is open to researchers from all fields, backgrounds, and institutions. We only ask you part of your work to be related with Computer Science. 
 If you’d like to join the association or have your work featured on this site, just reach out — it’s free, and you’ll be part of a growing network of independent scientists.
 
 ---
