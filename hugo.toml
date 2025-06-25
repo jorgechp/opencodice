@@ -1,6 +1,6 @@
 baseURL = "https://opencodice.org/"
 languageCode = "en-us"
-title = "OpenCodice Research Association"
+title = "OpenCodice"
 theme = "ananke"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
